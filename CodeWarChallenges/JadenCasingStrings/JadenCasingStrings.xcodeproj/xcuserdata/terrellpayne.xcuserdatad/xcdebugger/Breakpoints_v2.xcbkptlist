@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F9E029AD-1745-4E97-9350-399A8C3703AC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6CB24FA-34AD-4A59-8770-55B2D0EDD52E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JadenCasingStringsTests/Maskify.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "allTests"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F6CB24FA-34AD-4A59-8770-55B2D0EDD52E - 21c8ac2f4f063fba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for allTests"
+                  moduleName = "JadenCasingStringsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrellpayne/Desktop/IOSApps/CodeWarChallenges/JadenCasingStrings/JadenCasingStringsTests/Maskify.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "F6CB24FA-34AD-4A59-8770-55B2D0EDD52E - 9f5c6a52912d95f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JadenCasingStringsTests.SolutionTest2.allTests.unsafeMutableAddressor : Swift.Array&lt;(Swift.String, (JadenCasingStringsTests.SolutionTest2) -&gt; () -&gt; ())&gt;"
+                  moduleName = "JadenCasingStringsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrellpayne/Desktop/IOSApps/CodeWarChallenges/JadenCasingStrings/JadenCasingStringsTests/Maskify.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F6CB24FA-34AD-4A59-8770-55B2D0EDD52E - b9d44e3b2b930abc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static JadenCasingStringsTests.SolutionTest2.allTests.getter : Swift.Array&lt;(Swift.String, (JadenCasingStringsTests.SolutionTest2) -&gt; () -&gt; ())&gt;"
+                  moduleName = "JadenCasingStringsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrellpayne/Desktop/IOSApps/CodeWarChallenges/JadenCasingStrings/JadenCasingStringsTests/Maskify.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F6CB24FA-34AD-4A59-8770-55B2D0EDD52E - b9d44e3b2b930fa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static JadenCasingStringsTests.SolutionTest2.allTests.setter : Swift.Array&lt;(Swift.String, (JadenCasingStringsTests.SolutionTest2) -&gt; () -&gt; ())&gt;"
+                  moduleName = "JadenCasingStringsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrellpayne/Desktop/IOSApps/CodeWarChallenges/JadenCasingStrings/JadenCasingStringsTests/Maskify.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F6CB24FA-34AD-4A59-8770-55B2D0EDD52E - 930a96b76bbfdfbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static JadenCasingStringsTests.SolutionTest2.allTests.modify : Swift.Array&lt;(Swift.String, (JadenCasingStringsTests.SolutionTest2) -&gt; () -&gt; ())&gt;"
+                  moduleName = "JadenCasingStringsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrellpayne/Desktop/IOSApps/CodeWarChallenges/JadenCasingStrings/JadenCasingStringsTests/Maskify.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F6CB24FA-34AD-4A59-8770-55B2D0EDD52E - e25a975d24787783"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static JadenCasingStringsTests.SolutionTest2.allTests.modify : Swift.Array&lt;(Swift.String, (JadenCasingStringsTests.SolutionTest2) -&gt; () -&gt; ())&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "JadenCasingStringsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrellpayne/Desktop/IOSApps/CodeWarChallenges/JadenCasingStrings/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FE51362-567A-4BE8-9C28-4D2898FB4E33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JadenCasingStringsTests/hh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "testing(_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A472D665-1E27-4737-800E-07D75C26FBF0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JadenCasingStringsTests/hh.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "inArray(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A472D665-1E27-4737-800E-07D75C26FBF0 - 365b10dc8a09db1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JadenCasingStringsTests.SolutionTest3.inArray(Swift.Array&lt;Swift.String&gt;, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "JadenCasingStringsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrellpayne/Desktop/IOSApps/CodeWarChallenges/JadenCasingStrings/JadenCasingStringsTests/hh.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "A472D665-1E27-4737-800E-07D75C26FBF0 - 365b10dc8a09db1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JadenCasingStringsTests.SolutionTest3.inArray(Swift.Array&lt;Swift.String&gt;, Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "JadenCasingStringsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrellpayne/Desktop/IOSApps/CodeWarChallenges/JadenCasingStrings/JadenCasingStringsTests/hh.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
